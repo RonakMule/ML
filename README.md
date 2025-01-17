@@ -8,7 +8,9 @@ Execute Python scripts for model training and evaluation.
 
 - Python
 - NumPy, Pandas, Matplotlib, Seaborn
-- Scikit-learn## 🤝 Contributing
+- Scikit-learn##
+
+🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
